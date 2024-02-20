@@ -1,16 +1,18 @@
-### Hi there 👋
+👋 Hi, I'm Shiva Kumar Korra
 
-<!--
-**korrashiv/korrashiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I am a passionate data science enthusiast currently honing my skills as a Data Science Intern. My journey in the realms of machine learning and data science has been exhilarating, and I'm thrilled to contribute to the ever-evolving field.
 
-Here are some ideas to get you started:
+🔍 What I'm Currently Working On:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Exploring innovative solutions in machine learning. *Diving into real-world data science projects to gain hands-on experience. *Collaborating with inspiring professionals to expand my knowledge.
+
+🌱 Skills:
+
+*Machine Learning, Python, MySQL, ANN, CNN, MS Excel.
+
+🤝 Open to Collaboration:
+
+*Excited about collaborating on projects that leverage data for impactful insights.
+
+📫 Connect with Me: www.linkedin.com/in/shiva-kumar-s329s
+
